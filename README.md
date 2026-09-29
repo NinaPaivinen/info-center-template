@@ -44,7 +44,7 @@ npm install
 Käynnistä kehityspalvelin:
 
 ```bash
-npm ru
+npm run
 ```
 
 ![alt text](image.png)
