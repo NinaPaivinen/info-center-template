@@ -46,3 +46,7 @@ Käynnistä kehityspalvelin:
 ```bash
 npm ru
 ```
+
+![alt text](image.png)
+
+![alt text](image-1.png)
